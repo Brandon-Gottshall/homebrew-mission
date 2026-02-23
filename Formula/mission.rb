@@ -3,7 +3,7 @@ class Mission < Formula
   homepage "https://github.com/Brandon-Gottshall/mission"
   url "https://github.com/Brandon-Gottshall/mission.git",
       tag:      "v0.1.1",
-      revision: "484cf1004a38b296be599c51f6c1bcbbdb41286d"
+      revision: "ae58183f85fdad73c7901ab961344997d77bbefc"
   version "0.1.1"
   license "MIT"
   head "https://github.com/Brandon-Gottshall/mission.git", branch: "main"
