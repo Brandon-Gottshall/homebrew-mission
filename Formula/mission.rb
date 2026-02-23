@@ -2,9 +2,9 @@ class Mission < Formula
   desc "Global launcher for mission orchestration systems"
   homepage "https://github.com/Brandon-Gottshall/mission"
   url "https://github.com/Brandon-Gottshall/mission.git",
-      tag:      "v0.1.0",
+      tag:      "v0.1.1",
       revision: "484cf1004a38b296be599c51f6c1bcbbdb41286d"
-  version "0.1.0"
+  version "0.1.1"
   license "MIT"
   head "https://github.com/Brandon-Gottshall/mission.git", branch: "main"
 
